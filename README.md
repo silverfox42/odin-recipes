@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of building a basic recipe website. It will include a main website that links to other specific recipe sites. Skills demonstrated will include creating lists (ordered and unordered), utilizing links and images.
